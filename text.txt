@@ -1,1 +1,9 @@
+jakis test
+drugi
+trzeci
+wq
+:wq
 
+^x
+^X
+X
